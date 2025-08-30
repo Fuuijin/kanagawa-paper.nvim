@@ -6,3 +6,4 @@ images/
 !/extras/README.md
 tests/languages/
 .DS_Store
+CLAUDE.md
