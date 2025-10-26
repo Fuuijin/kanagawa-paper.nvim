@@ -21,6 +21,7 @@ M.mapping = {
   foot             = { ext = "ini", url= "https://codeberg.org/dnkl/foot", label = "Foot" },
   vivid            = { ext = "yml", url= "https://github.com/sharkdp/vivid", label = "Vivid" },
   nushell          = { ext = "nu", url = "https://www.nushell.sh/", label = "Nushell" },
+  zellij           = { ext = "kdl", url = "https://zellij.dev/documentation/themes", label = "Zellij" },
 }
 
 function M.setup()
